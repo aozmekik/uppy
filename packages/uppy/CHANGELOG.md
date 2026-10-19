@@ -1,5 +1,12 @@
 # uppy
 
+## 6.0.6
+
+### Patch Changes
+
+- Updated dependencies [a16a4bf]
+  - @uppy/core@6.3.1
+
 ## 6.0.5
 
 ### Patch Changes
